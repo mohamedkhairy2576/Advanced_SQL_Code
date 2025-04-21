@@ -14,4 +14,4 @@ SELECT
 FROM CustomerSales
 WHERE total_spent > 0
 ORDER BY total_spent DESC
-LIMIT 10;
+;
