@@ -1,7 +1,3 @@
--- File: Sales_by_Category.sql
--- Purpose: Calculate total sales and quantity by product category
--- Author: [Your Name]
--- Date: April 2025
 
 SELECT 
     product_category,
