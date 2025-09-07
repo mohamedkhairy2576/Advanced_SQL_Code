@@ -1,7 +1,4 @@
--- File: Sales_Data_Cleaning.sql
--- Purpose: Clean and prepare sales data in the new_orders table for analysis
--- Author: [Your Name]
--- Date: April 2025
+
 
 USE sales;
 
